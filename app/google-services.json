@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943527004755",
+    "firebase_url": "https://contactsapp-3891f.firebaseio.com",
+    "project_id": "contactsapp-3891f",
+    "storage_bucket": "contactsapp-3891f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943527004755:android:cc8579b06141837d2f14a6",
+        "android_client_info": {
+          "package_name": "com.hrishique.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943527004755-9kqfduusmn2dbggkifbdeec6n72qriao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrishique.contactsapp",
+            "certificate_hash": "1e3e4061a1cd0837996740dea662afaae8ab62a0"
+          }
+        },
+        {
+          "client_id": "943527004755-1efc0iqcdlnkmau6d3oapj2jdg3daejf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27BY6QKhD3avcBjGMeRoRDF-wEjL6yHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943527004755-1efc0iqcdlnkmau6d3oapj2jdg3daejf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

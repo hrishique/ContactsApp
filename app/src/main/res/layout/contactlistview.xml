@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <TextView
+        android:background="@android:color/black"
+                android:drawableLeft="@drawable/contact_image_icon"
+                android:textSize="25sp"
+                android:textColor="@android:color/white"
+        android:text="  My Name"
+                android:layout_margin="10dp"
+                android:id="@+id/contact_number_view"
+                android:paddingLeft="10dp"
+                android:hint="Enter Number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+</LinearLayout>
